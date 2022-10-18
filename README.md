@@ -7,5 +7,5 @@ By default this code calculates model means using a historic baseline of 1960-19
 
 Code blocks are verbose for Annual Maximum Temperature, Annual Minimum Temperature, and Annual Accumulated Precipitation. 
 
-![](C:/Users/lee.davis/Documents/a_Projects_Active/climate-scenarios-using-cal-adapt-data/Output/TmaxBocplots.png)
+![](images/TmaxBocplots.png)
 
