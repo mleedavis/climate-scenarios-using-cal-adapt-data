@@ -7,5 +7,5 @@ By default this code calculates model means using a historic baseline of 1960-19
 
 Code blocks are verbose for Annual Maximum Temperature, Annual Minimum Temperature, and Annual Accumulated Precipitation. 
 
-![](images/TmaxBoxplots.jpg)
+!["Maximum Annual Temperature Historic (1960-1991) vs Future (2035-2064)"](images/TmaxBoxplots.jpg)
 
